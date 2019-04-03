@@ -1,0 +1,26 @@
+{
+  "name": "osjs-json-auth",
+  "version": "1.0.1",
+  "description": "OS.js v3 Mongo authentication provider adapter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivmonnier/osjs-json-auth.git"
+  },
+  "keywords": [
+    "osjs",
+    "auth",
+    "json"
+  ],
+  "author": "Olivier Monnier <omonnier.dev@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/olivmonnier/osjs-json-auth/issues"
+  },
+  "homepage": "https://github.com/olivmonnier/osjs-json-auth#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "lowdb": "^1.0.0",
+    "shortid": "^2.2.14"
+  }
+}
