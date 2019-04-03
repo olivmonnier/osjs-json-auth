@@ -1,7 +1,7 @@
 {
   "name": "osjs-json-auth",
-  "version": "1.0.1",
-  "description": "OS.js v3 Mongo authentication provider adapter",
+  "version": "1.0.0",
+  "description": "OS.js v3 JSON authentication provider adapter",
   "main": "index.js",
   "repository": {
     "type": "git",
